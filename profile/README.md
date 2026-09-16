@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Synparc/synparc-internal/refs/heads/main/assets/logo.png" alt="Synparc Logo" width="100" />
+<img src="https://raw.githubusercontent.com/Synparc/.github/main/assets/logo.png" alt="Synparc Logo" width="100" />
 
 # Synparc
 
